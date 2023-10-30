@@ -1,1 +1,1 @@
-
+Due to the limitation of storage, the bert_model directory can be found from [OpenI](https://openi.pcl.ac.cn/panych/MedTS) or [Google Drive](https://drive.google.com/drive/folders/1AwASu7YCnTwhb5zyMmHh9WYXdhMxh_jp?usp=drive_link).
