@@ -1,0 +1,13 @@
+NONE_TYPE = 0
+RULE_TYPE = 1
+COL_TYPE = 2
+TAB_TYPE = 3
+VAL_TYPE = 4
+# TOKEN_TYPE = 4
+# COPY_TYPE = 5
+
+SOS_id = 1
+EOS_id = 2
+
+PAD_id = 0
+BATCH_SIZE = 4
